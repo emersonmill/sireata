@@ -688,4 +688,8 @@ public class AtaDAO {
 		}
 	}
 
+    public Ata buscarPorNumero(int idOrgao, TipoAta tipo, int numero, int ano) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
